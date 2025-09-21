@@ -1,2 +1,2 @@
 # gr-fico-seno-cosseno
-Repositório do algoritmo de matemática avançada -
+Repositório do algoritmo de matemática avançada - Representação gráfica de qualquer função sen e cos
